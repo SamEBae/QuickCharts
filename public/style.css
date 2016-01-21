@@ -27,3 +27,10 @@ path.slice {
 .margin-bottom {
 	margin-bottom: 10px;
 }
+
+#canvas{
+	display: none;
+}
+#png-container{
+	display: none;
+}
